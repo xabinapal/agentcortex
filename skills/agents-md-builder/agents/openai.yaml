@@ -1,0 +1,4 @@
+interface:
+  display_name: "AGENTS.md Builder"
+  short_description: "Generate stable AGENTS.md files"
+  default_prompt: "Use $agents-md-builder to inspect this repository and draft a concise, durable AGENTS.md focused on workflows and conventions."
