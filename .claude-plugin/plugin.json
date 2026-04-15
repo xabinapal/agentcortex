@@ -1,0 +1,5 @@
+{
+  "name": "agentcortex",
+  "description": "Agent Cortex base repository for reusable AI agent skills, commands, prompts, agents, tools, and plugins.",
+  "version": "0.1.0"
+}
